@@ -1,5 +1,7 @@
+```yml
 theme: minima
+```
 
-title: First GitHub Page
-author: Mauro Alice
-description: My first github page
+`title`: First GitHub Page
+`author`: Mauro Alice
+`description`: My first github page
